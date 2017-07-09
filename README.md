@@ -8,7 +8,7 @@ In order view this project youu must have the following installed on your comput
 
 1.A browser on your computer in order to view the webpage.
 
-2.Downloaded and installed Python on your computer .Incase you haven't installed it, here is the link.(https://www.python.org/downloads/)
+2.Downloaded and installed Python on your computer .Incase you haven't installed it, here is the [link].(https://www.python.org/downloads/)
 
 # Built With
 
