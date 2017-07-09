@@ -6,9 +6,9 @@ This project will display a webpage with a list of movies whose trailers will pl
 
 In order view this project youu must have the following installed on your computer you must have 
 
-1.Have a browser on your computer in order to view the webpage.
+1.A browser on your computer in order to view the webpage.
 
-2.Have downloaded and installed Python on your computer .Incase you haven't installed it, here is the link.(https://www.python.org/downloads/)
+2.Downloaded and installed Python on your computer .Incase you haven't installed it, here is the link.(https://www.python.org/downloads/)
 
 # Built With
 
